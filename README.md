@@ -1,2 +1,0 @@
-# sys-int
-ecom integration
